@@ -40,7 +40,7 @@ Read your inputs to consider if they could theoretically work
 
 ## Contributing
 
-Please read [CODE_OF_CONDUCT.md](https://github.com/NAU-OSS/Spring2023_Group8/blob/main/CODE_OF_CONDUCT.md) for details on our Community Code of Conduct!
+Please read [CODE_OF_CONDUCT.md](https://github.com/brandonbjs/cs305repo_mod5/blob/main/License.txt) for details on our Community Code of Conduct!
 
 Please read [CONTRIBUTING.md](https://github.com/NAU-OSS/Spring2023_Group8/blob/main/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
 
